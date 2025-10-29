@@ -1,9 +1,6 @@
-Entendi, Leonardo! Aqui está o conteúdo completo do guia essencial de Python formatado corretamente em **Markdown**, pronto para ser usado como `README.md`:
-
-```markdown
 # 🐍 Guia Essencial de Python
 
-Este repositório foi criado como parte de uma atividade de curso, com o objetivo de reunir os conceitos fundamentais da linguagem **Python**. O conteúdo é voltado para iniciantes e serve como referência rápida para quem está começando a programar.
+Este repositório foi criado como parte de uma atividade de curso, com o objetivo de reunir os conceitos fundamentais da linguagem **Python**. 
 
 ---
 
@@ -91,7 +88,5 @@ print(aluno["nome"])  # Ana
 ## 🚀 Recursos Úteis
 
 - [Documentação oficial do Python](https://docs.python.org/pt-br/3/)
-- [Curso Python para Iniciantes - Curso em Vídeo](https://www.cursoemvideo.com/course/python-3-mundo-1/)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
 ---
